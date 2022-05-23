@@ -46,6 +46,15 @@ aws elbv2 create-load-balancer --name myprettyelb
   
 --------------------------------------------------
 
+  --filter
+  
+  --query
+  
+  --output text
+  
+  $ (command substitution)
+  
+  bash_functions () {}
   
   
   
